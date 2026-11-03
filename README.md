@@ -1,6 +1,6 @@
-# Advanced Mini Games
+# whale
 
-Playable browser games by Dex. Collection of 17 games.
+Playable browser games. Standalone release of whale.
 
 Run a static server for gameplay; deploy to Vercel for the calendar, timer and TMDB endpoints. Set TMDB_API_KEY only as a server environment variable.
 
